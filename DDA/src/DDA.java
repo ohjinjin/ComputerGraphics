@@ -3,7 +3,7 @@ import javax.swing.JFrame;
 import java.util.Scanner;
 import java.lang.*;
 
-// 캔버스를 상속받아 DDA 클래스 정의
+// 캔버스를 상속받아 DDA 클래스 정의..
 public class DDA extends Canvas
 {
 	public static final int SCALE = 10;	// 축척을 위한 용도 상수 선언
