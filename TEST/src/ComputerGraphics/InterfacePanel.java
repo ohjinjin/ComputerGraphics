@@ -10,10 +10,8 @@ import java.util.ArrayList;
 
 import javax.swing.*;
 
-<<<<<<< HEAD
 /* 인터페이스를 위한 프레임 */
-=======
->>>>>>> refs/remotes/origin/master
+
 public class InterfacePanel extends JFrame{
 	//ArrayList<Object> objList = new ArrayList<>();
 	Surface surface = new Surface();
